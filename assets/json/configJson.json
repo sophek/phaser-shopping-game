@@ -1,0 +1,20 @@
+{
+    "meals":1,
+    "aux_text":"Meals Served",
+    "aux_per": 5,
+    "health_group_label": "Healthy Shopping",
+    "health_group_label1": "Grains",
+    "health_group_label2": "Veggies",
+    "health_group_label3": "Fruit",
+    "health_group_label4": "Protein",
+    "health_group_label5": "Diary",
+    "receipt_group_label": "Donations: ",
+    "receipt_group_label1": "Retail total:",
+    "receipt_group_label2": "You Saved:",
+    "receipt_group_label3": "Percent Saved:",
+    "checkout_summary_title": "Thanks for Shopping with Us!",
+    "checkout_summary_text":"It's amazing how much good you can do. Below you'll see exactly how much your donation will help those in need. We appericate your contribution. Be sure to come back and shop some more.",
+    "welcome_text":"Hello this is the welcome text",
+    "welcome_text_popup_title":"WELCOME to Shop with “LOVE” for Lunch Break.",
+    "welcome_text_popup":"No lines. No lifting. Shopping made easy. \n Shop with Lunch Break's very own Executive Director, Gwendolyn O. Love. Your donation will be designated for need-based purchases that support Lunch Break's mission. Just click START and then click on the food items you want to purchase. When you’ve reached your desired donation amount, just click CHECK OUT. Enjoy and THANK YOU!"
+}

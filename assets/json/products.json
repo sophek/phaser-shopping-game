@@ -1,0 +1,442 @@
+[{
+  "id": 1,
+  "product": "Corn",
+  "price": "21.79",
+  "retail_price": "66.22",
+  "product_type": "Grains",
+  "x": 243,
+  "y": 256,
+  "shelf": 3
+}, {
+  "id": 2,
+  "product": "Cottage Cheese",
+  "price": "12.68",
+  "retail_price": "72.29",
+  "product_type": "Fruit",
+  "x": 1500,
+  "y": 310,
+  "shelf": 1
+}, {
+  "id": 3,
+  "product": 2,
+  "price": "39.13",
+  "retail_price": "96.45",
+  "product_type": "Dairy",
+  "x": 247,
+  "y": 226,
+  "shelf": 3
+}, {
+  "id": 4,
+  "product": 4,
+  "price": "42.57",
+  "retail_price": "61.51",
+  "product_type": "Fruit",
+  "x": 348,
+  "y": 253,
+  "shelf": 3
+}, {
+  "id": 5,
+  "product": 1,
+  "price": "7.84",
+  "retail_price": "51.61",
+  "product_type": "Fruit",
+  "x": 814,
+  "y": 494,
+  "shelf": 2
+}, {
+  "id": 6,
+  "product": 4,
+  "price": "40.66",
+  "retail_price": "55.36",
+  "product_type": "Grains",
+  "x": 734,
+  "y": 238,
+  "shelf": 2
+}, {
+  "id": 7,
+  "product": "Ground Beef",
+  "price": "32.74",
+  "retail_price": "54.53",
+  "product_type": "Protein",
+  "x": 1500,
+  "y": 300,
+  "shelf": 1
+}, {
+  "id": 8,
+  "product": "Bacon",
+  "price": "30.15",
+  "retail_price": "54.68",
+  "product_type": "Protein",
+  "x": 782,
+  "y": 343,
+  "shelf": 1
+}, {
+  "id": 9,
+  "product": "Turkey Bacon",
+  "price": "20.57",
+  "retail_price": "95.83",
+  "product_type": "Protein",
+  "x": 758,
+  "y": 411,
+  "shelf": 1
+}, {
+  "id": 10,
+  "product": "Steak",
+  "price": "20.80",
+  "retail_price": "60.16",
+  "product_type": "Protein",
+  "x": 410,
+  "y": 479,
+  "shelf": 1
+}, {
+  "id": 11,
+  "product": 1,
+  "price": "35.54",
+  "retail_price": "56.92",
+  "product_type": "Veggies",
+  "x": 518,
+  "y": 322,
+  "shelf": 3
+}, {
+  "id": 12,
+  "product": 2,
+  "price": "19.70",
+  "retail_price": "82.26",
+  "product_type": "Grains",
+  "x": 521,
+  "y": 427,
+  "shelf": 3
+}, {
+  "id": 13,
+  "product": 2,
+  "price": "23.22",
+  "retail_price": "98.23",
+  "product_type": "Fruit",
+  "x": 614,
+  "y": 495,
+  "shelf": 4
+}, {
+  "id": 14,
+  "product": 1,
+  "price": "9.69",
+  "retail_price": "71.41",
+  "product_type": "Veggies",
+  "x": 396,
+  "y": 228,
+  "shelf": 3
+}, {
+  "id": 15,
+  "product": 4,
+  "price": "17.15",
+  "retail_price": "83.98",
+  "product_type": "Veggies",
+  "x": 592,
+  "y": 321,
+  "shelf": 3
+}, {
+  "id": 16,
+  "product": 1,
+  "price": "44.02",
+  "retail_price": "96.47",
+  "product_type": "Dairy",
+  "x": 534,
+  "y": 450,
+  "shelf": 2
+}, {
+  "id": 17,
+  "product": 3,
+  "price": "8.23",
+  "retail_price": "58.47",
+  "product_type": "Grains",
+  "x": 776,
+  "y": 399,
+  "shelf": 3
+}, {
+  "id": 18,
+  "product": 4,
+  "price": "33.35",
+  "retail_price": "96.31",
+  "product_type": "Fruit",
+  "x": 545,
+  "y": 348,
+  "shelf": 4
+}, {
+  "id": 19,
+  "product": 2,
+  "price": "11.33",
+  "retail_price": "73.90",
+  "product_type": "Fruit",
+  "x": 825,
+  "y": 244,
+  "shelf": 4
+}, {
+  "id": 20,
+  "product": 2,
+  "price": "42.18",
+  "retail_price": "82.37",
+  "product_type": "Veggies",
+  "x": 208,
+  "y": 375,
+  "shelf": 3
+}, {
+  "id": 21,
+  "product": "Potatoes",
+  "price": "11.21",
+  "retail_price": "82.05",
+  "product_type": "Veggies",
+  "x": 754,
+  "y": 455,
+  "shelf": 2
+}, {
+  "id": 22,
+  "product": "Beets",
+  "price": "44.30",
+  "retail_price": "62.03",
+  "product_type": "Veggies",
+  "x": 367,
+  "y": 269,
+  "shelf": 2
+}, {
+  "id": 23,
+  "product": "Pork Chops",
+  "price": "12.91",
+  "retail_price": "80.55",
+  "product_type": "Protein",
+  "x": 961,
+  "y": 304,
+  "shelf": 1
+}, {
+  "id": 24,
+  "product": 1,
+  "price": "31.86",
+  "retail_price": "96.93",
+  "product_type": "Fruit",
+  "x": 901,
+  "y": 318,
+  "shelf": 2
+}, {
+  "id": 25,
+  "product": 4,
+  "price": "22.54",
+  "retail_price": "90.19",
+  "product_type": "Fruit",
+  "x": 360,
+  "y": 418,
+  "shelf": 2
+}, {
+  "id": 26,
+  "product": 1,
+  "price": "29.55",
+  "retail_price": "75.27",
+  "product_type": "Veggies",
+  "x": 906,
+  "y": 465,
+  "shelf": 3
+}, {
+  "id": 27,
+  "product": 1,
+  "price": "43.17",
+  "retail_price": "94.63",
+  "product_type": "Fruit",
+  "x": 998,
+  "y": 344,
+  "shelf": 2
+}, {
+  "id": 28,
+  "product": 3,
+  "price": "42.20",
+  "retail_price": "53.76",
+  "product_type": "Grains",
+  "x": 816,
+  "y": 438,
+  "shelf": 4
+}, {
+  "id": 29,
+  "product": 4,
+  "price": "28.96",
+  "retail_price": "81.73",
+  "product_type": "Dairy",
+  "x": 377,
+  "y": 445,
+  "shelf": 4
+}, {
+  "id": 30,
+  "product": 1,
+  "price": "45.20",
+  "retail_price": "88.69",
+  "product_type": "Grains",
+  "x": 395,
+  "y": 336,
+  "shelf": 3
+}, {
+  "id": 31,
+  "product": 3,
+  "price": "49.36",
+  "retail_price": "89.01",
+  "product_type": "Veggies",
+  "x": 736,
+  "y": 343,
+  "shelf": 2
+}, {
+  "id": 32,
+  "product": 1,
+  "price": "48.87",
+  "retail_price": "99.96",
+  "product_type": "Fruit",
+  "x": 411,
+  "y": 357,
+  "shelf": 4
+}, {
+  "id": 33,
+  "product": 2,
+  "price": "45.13",
+  "retail_price": "86.83",
+  "product_type": "Dairy",
+  "x": 647,
+  "y": 393,
+  "shelf": 4
+}, {
+  "id": 34,
+  "product": 4,
+  "price": "24.25",
+  "retail_price": "64.57",
+  "product_type": "Grains",
+  "x": 577,
+  "y": 224,
+  "shelf": 3
+}, {
+  "id": 35,
+  "product": 3,
+  "price": "9.19",
+  "retail_price": "76.59",
+  "product_type": "Grains",
+  "x": 534,
+  "y": 397,
+  "shelf": 2
+}, {
+  "id": 36,
+  "product": 1,
+  "price": "6.98",
+  "retail_price": "95.63",
+  "product_type": "Grains",
+  "x": 228,
+  "y": 362,
+  "shelf": 3
+}, {
+  "id": 37,
+  "product": 2,
+  "price": "17.36",
+  "retail_price": "68.70",
+  "product_type": "Protein",
+  "x": 377,
+  "y": 272,
+  "shelf": 4
+}, {
+  "id": 38,
+  "product": "Ground Turkey",
+  "price": "42.54",
+  "retail_price": "87.70",
+  "product_type": "Protein",
+  "x": 276,
+  "y": 404,
+  "shelf": 1
+}, {
+  "id": 39,
+  "product": "Waffles",
+  "price": "14.71",
+  "retail_price": "65.11",
+  "product_type": "Grains",
+  "x": 891,
+  "y": 420,
+  "shelf": 1
+}, {
+  "id": 40,
+  "product": "Grade A Eggs",
+  "price": "45.08",
+  "retail_price": "59.44",
+  "product_type": "Protein",
+  "x": 988,
+  "y": 344,
+  "shelf": 1
+}, {
+  "id": 41,
+  "product": "Grade B Eggs",
+  "price": "31.77",
+  "retail_price": "65.20",
+  "product_type": "Protein",
+  "x": 731,
+  "y": 335,
+  "shelf": 1
+}, {
+  "id": 42,
+  "product": "2% Milk",
+  "price": "20.34",
+  "retail_price": "88.66",
+  "product_type": "Dairy",
+  "x": 432,
+  "y": 403,
+  "shelf": 1
+}, {
+  "id": 43,
+  "product": "Milk",
+  "price": "31.76",
+  "retail_price": "90.03",
+  "product_type": "Diary",
+  "x": 231,
+  "y": 308,
+  "shelf": 1
+}, {
+  "id": 44,
+  "product": "Eggs",
+  "price": "22.01",
+  "retail_price": "87.45",
+  "product_type": "Protein",
+  "x": 497,
+  "y": 461,
+  "shelf": 1
+}, {
+  "id": 45,
+  "product": "Chicken Drumsticks",
+  "price": "30.37",
+  "retail_price": "93.74",
+  "product_type": "Protein",
+  "x": 713,
+  "y": 317,
+  "shelf": 1
+}, {
+  "id": 46,
+  "product": "Turkey Pepperoni",
+  "price": "34.09",
+  "retail_price": "92.17",
+  "product_type": "Dairy",
+  "x": 308,
+  "y": 412,
+  "shelf": 1
+}, {
+  "id": 47,
+  "product": "Turkey Bacon",
+  "price": "18.86",
+  "retail_price": "76.55",
+  "product_type": "Protein",
+  "x": 646,
+  "y": 251,
+  "shelf": 1
+}, {
+  "id": 48,
+  "product": 1,
+  "price": "5.84",
+  "retail_price": "89.59",
+  "product_type": "Veggies",
+  "x": 970,
+  "y": 461,
+  "shelf": 3
+}, {
+  "id": 49,
+  "product": 3,
+  "price": "18.82",
+  "retail_price": "55.06",
+  "product_type": "Dairy",
+  "x": 491,
+  "y": 233,
+  "shelf": 4
+}]

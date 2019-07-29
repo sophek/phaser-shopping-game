@@ -1,0 +1,108 @@
+{"frames": {
+
+"cash.png":
+{
+	"frame": {"x":514,"y":1411,"w":437,"h":156},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":437,"h":156},
+	"sourceSize": {"w":437,"h":156}
+},
+"checkout.png":
+{
+	"frame": {"x":804,"y":1110,"w":122,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":122,"h":99},
+	"sourceSize": {"w":133,"h":100}
+},
+"musicIcon.png":
+{
+	"frame": {"x":953,"y":1110,"w":17,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":28},
+	"sourceSize": {"w":21,"h":32}
+},
+"newFront-Facing-Gwen.png":
+{
+	"frame": {"x":685,"y":713,"w":165,"h":395},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":395},
+	"sourceSize": {"w":165,"h":395}
+},
+"newFront-Facing-Tyrone.png":
+{
+	"frame": {"x":852,"y":713,"w":132,"h":395},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":0,"w":132,"h":395},
+	"sourceSize": {"w":165,"h":395}
+},
+"NTxFoodBankGameScene_4.png":
+{
+	"frame": {"x":1,"y":1,"w":970,"h":710},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":970,"h":710},
+	"sourceSize": {"w":970,"h":710}
+},
+"pole.png":
+{
+	"frame": {"x":928,"y":1110,"w":23,"h":236},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":236},
+	"sourceSize": {"w":23,"h":236}
+},
+"skip.png":
+{
+	"frame": {"x":685,"y":1110,"w":117,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":117,"h":86},
+	"sourceSize": {"w":121,"h":86}
+},
+"startButton.png":
+{
+	"frame": {"x":760,"y":1211,"w":122,"h":108},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":122,"h":108},
+	"sourceSize": {"w":133,"h":108}
+},
+"store.png":
+{
+	"frame": {"x":1,"y":713,"w":682,"h":487},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":682,"h":487},
+	"sourceSize": {"w":682,"h":487}
+},
+"vfdlogo.png":
+{
+	"frame": {"x":514,"y":1202,"w":244,"h":207},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":244,"h":207},
+	"sourceSize": {"w":244,"h":207}
+},
+"welcomeScreen.png":
+{
+	"frame": {"x":1,"y":1202,"w":511,"h":345},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":511,"h":345},
+	"sourceSize": {"w":511,"h":345}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ui_welcomescreen.png",
+	"format": "RGBA8888",
+	"size": {"w":985,"h":1568},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3c74c73545c8d9fa1f6a2ec1f69381bf:82c24f022b6ab635e260e216898a79c2:3a20569e8306635468156a6c80d2db05$"
+}
+}

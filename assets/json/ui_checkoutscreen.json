@@ -1,0 +1,68 @@
+{"frames": {
+
+"checkout_checkout.png":
+{
+	"frame": {"x":780,"y":761,"w":122,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":122,"h":114},
+	"sourceSize": {"w":133,"h":114}
+},
+"checkout_xbutton.png":
+{
+	"frame": {"x":1,"y":987,"w":29,"h":29},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":29},
+	"sourceSize": {"w":29,"h":29}
+},
+"checkoutSummaryScreen.png":
+{
+	"frame": {"x":1,"y":1,"w":855,"h":629},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":11,"w":855,"h":629},
+	"sourceSize": {"w":868,"h":655}
+},
+"plate.png":
+{
+	"frame": {"x":1,"y":632,"w":269,"h":353},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":353},
+	"sourceSize": {"w":269,"h":353}
+},
+"receipt.png":
+{
+	"frame": {"x":272,"y":632,"w":253,"h":390},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":253,"h":390},
+	"sourceSize": {"w":253,"h":390}
+},
+"shoppinglist.png":
+{
+	"frame": {"x":527,"y":632,"w":251,"h":322},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":251,"h":322},
+	"sourceSize": {"w":251,"h":322}
+},
+"tryagain.png":
+{
+	"frame": {"x":780,"y":632,"w":147,"h":127},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":127},
+	"sourceSize": {"w":147,"h":127}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ui_checkoutscreen.png",
+	"format": "RGBA8888",
+	"size": {"w":928,"h":1023},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d8609dd6fe872fad2c06ef9b30c58d3c:88592c103e2d8b62f4adc6e5dba6840c:7de9f95820b53cfdefe8a74820b3ea51$"
+}
+}

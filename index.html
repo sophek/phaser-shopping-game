@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui" />
+	     <meta name="apple-mobile-web-app-capable" content="yes" />
+	     <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+	     <meta name="HandheldFriendly" content="true" />		
+	     <meta name="mobile-web-app-capable" content="yes" />
+		 <!-- <script src="https://checkout.stripe.com/checkout.js"></script> -->
+	     <style type="text/css">
+	          body{
+	               padding:0px;
+	               margin:0px;
+	               background: #000;
+	          }
+      </style>
+    
+</head>
+<body>
+    <main id="game"></main>
+	
+    <script src="vendor/phaser.min.js"></script>
+	<script src="main.js"></script>
+	<!--
+	<script>
+
+var handler = StripeCheckout.configure({
+  key: 'pk_test_6pRNASCoBOKtIshFeQd4XMUh',
+  image: 'https://stripe.com/img/documentation/checkout/marketplace.png',
+  locale: 'auto',
+  token: function(token) {
+    // You can access the token ID with `token.id`.
+    // Get the token ID to your server-side code for use.
+	console.log(token);
+
+  }
+});
+
+// Close Checkout on page navigation:
+window.addEventListener('popstate', function() {
+  handler.close();
+});
+	</script> -->
+</body>
+</html>
